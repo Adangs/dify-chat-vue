@@ -1,2 +1,3 @@
 # dify-chat-vue
-dify chat vue
+Vue3 + Ant Design X Vue
+
